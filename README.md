@@ -1,9 +1,9 @@
-# PromCon Website
+# PromCon Amazing Website
 
 This repository contains both the content and the static-site generator code for the
 PromCon website.
 
-## Prerequisites
+## Prerequisites 
 
 You need to have a working Ruby environment set up and then install the
 necessary gems:
